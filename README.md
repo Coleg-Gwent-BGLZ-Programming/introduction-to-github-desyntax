@@ -107,5 +107,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub community forum](https://github.community/)
 
 # 📋 Assessment Link
-1. Please complete the start_activty.pdf.
-2. Please complete the quiz here: GitHub Starter Quiz
+1. Please read the README.md file, and watch related videos.
+2. Please complete the start_activty.pdf
+3. Please complete the quiz here: GitHub Starter Quiz
