@@ -1,3 +1,8 @@
+# 📋 Assessment Link
+1. Please read the README.md file, and watch related videos.
+2. Please complete the start_activty.pdf
+3. Please complete the quiz here: [GitHub Starter Quiz](https://github.com/Coleg-Gwent-BGLZ-Programming/coleg-gwent-bglz-unit4-introduction-to-github-github-starter-course/issues/1)
+   
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -106,8 +111,4 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 
-# 📋 Assessment Link
-1. Please read the README.md file, and watch related videos.
-2. Please complete the start_activty.pdf
-3. Please complete the quiz here: [GitHub Starter Quiz](https://github.com/Coleg-Gwent-BGLZ-Programming/coleg-gwent-bglz-unit4-introduction-to-github-github-starter-course/issues/1)
-   
+
