@@ -109,4 +109,5 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 # 📋 Assessment Link
 1. Please read the README.md file, and watch related videos.
 2. Please complete the start_activty.pdf
-3. Please complete the quiz here: GitHub Starter Quiz
+3. Please complete the quiz here: [GitHub Starter Quiz](https://github.com/Coleg-Gwent-BGLZ-Programming/coleg-gwent-bglz-unit4-introduction-to-github-github-starter-course/issues/1)
+   
