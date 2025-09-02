@@ -16,8 +16,7 @@ streakHolder = None # who holds the streak
 streak = 0
 draw = False # boolean for tied result
 win = "" # string value for printing who won
-update = "[UPDATE 0.3 ALPHA | 27/11/2024]: started optimising the game" 
-ar.rpstable = [["s", "r", "p"], ["r", "p", "s"], ["p", "s", "r"]]
+update = "[UPDATE 0.3.1 ALPHA | 27/11/2024]: removed redundancies and added more comments in code"
 
 # definitions
 def game_end(winner):
